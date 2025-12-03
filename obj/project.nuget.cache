@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xOT0/flptPI=",
+  "dgSpecHash": "eu0uOnh29MQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\kimis\\source\\repos\\PresetMagician\\PresetMagician.Net8\\PresetMagician.Net8.csproj",
+  "projectFilePath": "C:\\Users\\kimis\\source\\repos\\PresetMagician\\PresetMagician.Reborn\\PresetMagician.Reborn.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kimis\\.nuget\\packages\\controlzex\\4.4.0\\controlzex.4.4.0.nupkg.sha512",
     "C:\\Users\\kimis\\.nuget\\packages\\mahapps.metro\\2.4.10\\mahapps.metro.2.4.10.nupkg.sha512",

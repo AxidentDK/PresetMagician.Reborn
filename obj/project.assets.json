@@ -1232,11 +1232,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kimis\\source\\repos\\PresetMagician\\PresetMagician.Net8\\PresetMagician.Net8.csproj",
-      "projectName": "PresetMagician.Net8",
-      "projectPath": "C:\\Users\\kimis\\source\\repos\\PresetMagician\\PresetMagician.Net8\\PresetMagician.Net8.csproj",
+      "projectUniqueName": "C:\\Users\\kimis\\source\\repos\\PresetMagician\\PresetMagician.Reborn\\PresetMagician.Reborn.csproj",
+      "projectName": "PresetMagician.Reborn",
+      "projectPath": "C:\\Users\\kimis\\source\\repos\\PresetMagician\\PresetMagician.Reborn\\PresetMagician.Reborn.csproj",
       "packagesPath": "C:\\Users\\kimis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kimis\\source\\repos\\PresetMagician\\PresetMagician.Net8\\obj\\",
+      "outputPath": "C:\\Users\\kimis\\source\\repos\\PresetMagician\\PresetMagician.Reborn\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kimis\\source\\repos\\PresetMagician\\NuGet.Config",
